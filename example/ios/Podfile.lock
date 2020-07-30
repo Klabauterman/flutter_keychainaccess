@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_keychainaccess (0.0.1):
+    - Flutter
+    - KeychainAccess
+  - KeychainAccess (4.2.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_keychainaccess (from `.symlinks/plugins/flutter_keychainaccess/ios`)
+
+SPEC REPOS:
+  trunk:
+    - KeychainAccess
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_keychainaccess:
+    :path: ".symlinks/plugins/flutter_keychainaccess/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_keychainaccess: 61e440ce485518f6b02669d98038acf295cfc25a
+  KeychainAccess: 3f760109aa99b05d0f231e28b22642da7153e38a
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.2
